@@ -1,0 +1,43 @@
+{
+  "id": "breville-barista-express",
+  "slug": "breville-barista-express",
+  "asin": "B00CH9QWOU",
+  "title": "Breville BES870XL Barista Express Espresso Machine",
+  "shortTitle": "Breville Barista Express",
+  "category": "home-kitchen",
+  "brand": "Breville",
+  "image": "/images/products/breville-barista-express.jpg",
+  "rating": 4.7,
+  "reviewCount": 28540,
+  "summary": "The Breville Barista Express is the gold standard all-in-one espresso machine for home baristas. It combines a 15-bar pump, integrated conical burr grinder, and precise temperature control into one elegant unit. Our research suggests it consistently delivers cafe-quality espresso with a manageable learning curve.",
+  "pros": [
+    "Built-in conical burr grinder with dose control",
+    "Precise digital temperature control (PID)",
+    "15-bar Italian pump for professional extraction",
+    "Steam wand for microfoam milk texturing",
+    "Manual control lets you develop barista skills"
+  ],
+  "cons": [
+    "Significant learning curve to master settings",
+    "Takes counter space — not compact",
+    "Grinder less powerful than standalone burr grinders",
+    "Requires regular cleaning and maintenance"
+  ],
+  "bestFor": [
+    "Home baristas who want cafe-quality espresso",
+    "Coffee enthusiasts ready to learn the craft",
+    "Those who want grinder + machine in one unit",
+    "Daily espresso or latte drinkers"
+  ],
+  "keyFeatures": [
+    { "name": "Pump Pressure", "value": "15 bar Italian pump" },
+    { "name": "Grinder", "value": "Integrated conical burr (8 settings)" },
+    { "name": "Temperature", "value": "PID digital control" },
+    { "name": "Boiler", "value": "Thermocoil heating system" },
+    { "name": "Portafilter", "value": "54mm commercial grade" },
+    { "name": "Steam Wand", "value": "Yes — manual microfoam" }
+  ],
+  "verdict": "The Breville Barista Express is the best all-in-one espresso machine for most home users. Our research confirms that few machines in this price range offer the same combination of grind-to-shot control and build quality.",
+  "tag": "Best Overall",
+  "featured": true
+}

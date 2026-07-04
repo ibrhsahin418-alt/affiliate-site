@@ -1,0 +1,43 @@
+{
+  "id": "tplink-deco-xe75",
+  "slug": "tplink-deco-xe75",
+  "asin": "B0B88T5RDY",
+  "title": "TP-Link Deco XE75 AXE5400 Tri-Band WiFi 6E Mesh System",
+  "shortTitle": "TP-Link Deco XE75 WiFi 6E",
+  "category": "electronics",
+  "brand": "TP-Link",
+  "image": "/images/products/tplink-deco-xe75.jpg",
+  "rating": 4.5,
+  "reviewCount": 6710,
+  "summary": "The TP-Link Deco XE75 brings WiFi 6E to the mesh networking space — adding a dedicated 6GHz band for dramatically reduced congestion and faster speeds for compatible devices. Our research suggests it's the best mid-range WiFi 6E mesh system for tech-forward households.",
+  "pros": [
+    "WiFi 6E — dedicated 6GHz band for new devices",
+    "Tri-band design keeps backhaul traffic separate",
+    "TP-Link's mature Deco app for easy management",
+    "Excellent coverage — up to 5,500 sq ft (2-pack)",
+    "Supports up to 200 connected devices"
+  ],
+  "cons": [
+    "6GHz band only benefits WiFi 6E devices (limited currently)",
+    "More expensive than standard WiFi 6 mesh systems",
+    "Advanced features locked behind TP-Link HomeCare subscription",
+    "Bulkier design than some competitors"
+  ],
+  "bestFor": [
+    "Tech enthusiasts who want future-proof networking",
+    "Large homes over 3,000 sq ft",
+    "Households with many WiFi 6E devices (latest iPhones, laptops)",
+    "Those wanting the best mesh system under $300"
+  ],
+  "keyFeatures": [
+    { "name": "Standard", "value": "WiFi 6E (802.11axe)" },
+    { "name": "Speed", "value": "AXE5400 (574+2402+2402 Mbps)" },
+    { "name": "Bands", "value": "Tri-band (2.4/5/6GHz)" },
+    { "name": "Coverage", "value": "Up to 5,500 sq ft (2-pack)" },
+    { "name": "Devices", "value": "200+" },
+    { "name": "Ports", "value": "2x Gigabit Ethernet per node" }
+  ],
+  "verdict": "The TP-Link Deco XE75 is our premium recommendation for WiFi 6E mesh networking. Our research confirms TP-Link's mesh ecosystem is mature, reliable, and well-supported — and the XE75 brings the 6GHz advantage at a relatively accessible price.",
+  "tag": "Best Premium",
+  "featured": false
+}

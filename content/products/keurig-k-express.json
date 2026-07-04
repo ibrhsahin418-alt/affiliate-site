@@ -1,0 +1,43 @@
+{
+  "id": "keurig-k-express",
+  "slug": "keurig-k-express",
+  "asin": "B09715G57M",
+  "title": "Keurig K-Express Single Serve K-Cup Pod Coffee Maker",
+  "shortTitle": "Keurig K-Express Coffee Maker",
+  "category": "home-kitchen",
+  "brand": "Keurig",
+  "image": "/images/products/keurig-k-express.jpg",
+  "rating": 4.6,
+  "reviewCount": 45230,
+  "summary": "The Keurig K-Express is the most streamlined single-serve coffee maker in Keurig's lineup. Designed for speed and simplicity, our research suggests it brews a full cup in under a minute and is ideal for those who want fast, consistent coffee without any complexity.",
+  "pros": [
+    "Brews in under 60 seconds",
+    "Compact design — fits under cabinets",
+    "Strong brew button for a bolder cup",
+    "Compatible with all K-Cup pod varieties",
+    "Easy to clean — removable drip tray"
+  ],
+  "cons": [
+    "No built-in milk frother",
+    "Water reservoir is small (36 oz) — needs frequent refilling",
+    "K-Cup pods are more expensive per cup than ground coffee",
+    "Not reusable pod compatible without adapter"
+  ],
+  "bestFor": [
+    "Solo coffee drinkers who need speed above all",
+    "Small offices and breakrooms",
+    "Those with limited counter space",
+    "Anyone new to Keurig / pod-based coffee"
+  ],
+  "keyFeatures": [
+    { "name": "Brew Time", "value": "Under 60 seconds" },
+    { "name": "Cup Sizes", "value": "6, 8, 12 oz" },
+    { "name": "Water Reservoir", "value": "36 oz removable" },
+    { "name": "Strong Brew", "value": "Yes" },
+    { "name": "Compatibility", "value": "All K-Cup pods" },
+    { "name": "Dimensions", "value": "5\" W x 11.3\" D x 11.6\" H" }
+  ],
+  "verdict": "The Keurig K-Express is our top pick for anyone who values speed and simplicity over customization. Our research confirms it's the most practical single-serve coffee maker for solo home users and small offices.",
+  "tag": "Best Budget",
+  "featured": false
+}

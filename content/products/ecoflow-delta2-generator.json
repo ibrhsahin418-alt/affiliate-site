@@ -1,0 +1,43 @@
+{
+  "id": "ecoflow-delta2-generator",
+  "slug": "ecoflow-delta2-generator",
+  "asin": "B0DCC2BVFW",
+  "title": "EF EcoFlow Portable Power Station & Solar Generator",
+  "shortTitle": "EcoFlow Portable Power Station",
+  "category": "home-kitchen",
+  "brand": "EF EcoFlow",
+  "image": "/images/products/ecoflow-generator.jpg",
+  "rating": 4.6,
+  "reviewCount": 3241,
+  "summary": "The EF EcoFlow portable power station is a versatile backup power solution that combines a high-capacity LFP battery with optional solar charging. Our research suggests it's one of the most well-rounded portable generators for home backup, camping, and emergency preparedness.",
+  "pros": [
+    "LFP battery chemistry — safer and lasts 3,000+ charge cycles",
+    "Fast charging — 0 to 80% in under 1 hour",
+    "Multiple output options: AC, USB-A, USB-C, DC",
+    "Optional solar panel compatibility for off-grid use",
+    "Quiet operation — no fumes, indoor-safe"
+  ],
+  "cons": [
+    "Higher upfront cost than traditional gas generators",
+    "Limited runtime for very high-wattage appliances",
+    "Solar charging depends on weather conditions",
+    "Heavy for true portability at this capacity"
+  ],
+  "bestFor": [
+    "Home emergency backup power",
+    "Camping and van life",
+    "Remote work and outdoor events",
+    "Areas with frequent power outages"
+  ],
+  "keyFeatures": [
+    { "name": "Battery Type", "value": "LFP (Lithium Iron Phosphate)" },
+    { "name": "AC Output", "value": "1800W (3300W surge)" },
+    { "name": "Cycle Life", "value": "3,000+ cycles to 80% capacity" },
+    { "name": "Charging", "value": "AC Wall / Solar / Car" },
+    { "name": "Weight", "value": "~27 lbs" },
+    { "name": "App Control", "value": "Yes — EcoFlow app" }
+  ],
+  "verdict": "For anyone seeking a reliable, clean, and quiet portable power station, the EcoFlow is a top-tier choice. Our research confirms it outperforms most similarly priced alternatives in charge speed, battery longevity, and output versatility.",
+  "tag": "Best Overall",
+  "featured": true
+}

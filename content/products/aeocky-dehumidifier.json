@@ -1,0 +1,43 @@
+{
+  "id": "aeocky-dehumidifier",
+  "slug": "aeocky-dehumidifier",
+  "asin": "B0D1C6HWFF",
+  "title": "AEOCKY Dehumidifier with Intelligent Humidistat & Compressor",
+  "shortTitle": "AEOCKY Compressor Dehumidifier",
+  "category": "home-kitchen",
+  "brand": "AEOCKY",
+  "image": "/images/products/aeocky-dehumidifier.jpg",
+  "rating": 4.4,
+  "reviewCount": 2180,
+  "summary": "The AEOCKY Dehumidifier uses compressor technology to effectively reduce humidity in medium to large spaces. With an intelligent humidistat and auto-restart function, our research suggests it offers strong performance for basements, crawlspaces, and humid living areas.",
+  "pros": [
+    "Compressor-based — effective in a wide range of temperatures",
+    "Intelligent humidistat maintains your target humidity level",
+    "Auto-restart after power outages",
+    "Continuous drain option via gravity hose",
+    "Easy-to-read display with humidity readings"
+  ],
+  "cons": [
+    "Louder than desiccant-type dehumidifiers",
+    "Less effective in very cold environments (below 41°F)",
+    "Water tank requires manual emptying if not using drain hose",
+    "Larger footprint than mini dehumidifiers"
+  ],
+  "bestFor": [
+    "Basements with persistent humidity problems",
+    "Crawlspaces and storage rooms",
+    "Living areas in humid climates",
+    "Anyone needing continuous drainage capability"
+  ],
+  "keyFeatures": [
+    { "name": "Technology", "value": "Compressor-based" },
+    { "name": "Coverage", "value": "Up to 1,500 sq ft" },
+    { "name": "Daily Extraction", "value": "30–50 pints/day" },
+    { "name": "Humidistat", "value": "Yes — intelligent auto control" },
+    { "name": "Drain Options", "value": "Manual tank + continuous hose" },
+    { "name": "Auto-Restart", "value": "Yes" }
+  ],
+  "verdict": "The AEOCKY dehumidifier is a solid mid-range choice for anyone dealing with persistent basement or crawlspace humidity. Compressor technology ensures reliable year-round performance. Our research suggests it offers good value relative to more established brands.",
+  "tag": "Best Budget",
+  "featured": false
+}

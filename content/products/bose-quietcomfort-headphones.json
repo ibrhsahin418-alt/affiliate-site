@@ -1,0 +1,43 @@
+{
+  "id": "bose-quietcomfort-headphones",
+  "slug": "bose-quietcomfort-headphones",
+  "asin": "B0FGYDGJ3H",
+  "title": "Bose QuietComfort Wireless Noise Cancelling Headphones",
+  "shortTitle": "Bose QuietComfort Headphones",
+  "category": "electronics",
+  "brand": "Bose",
+  "image": "/images/products/bose-quietcomfort.jpg",
+  "rating": 4.7,
+  "reviewCount": 21450,
+  "summary": "The Bose QuietComfort headphones are the benchmark for comfortable, effective noise cancellation. Our research suggests Bose's legendary acoustic engineering delivers one of the most natural-sounding ANC experiences available, with class-leading comfort for all-day wear.",
+  "pros": [
+    "Industry-leading noise cancellation — among the best available",
+    "Exceptional comfort — lightweight with plush ear cushions",
+    "Balanced, natural sound signature favored by casual listeners",
+    "Multipoint Bluetooth — connects to 2 devices simultaneously",
+    "Up to 24 hours battery life with ANC on"
+  ],
+  "cons": [
+    "Sound profile is less detailed than Sony or Sennheiser at this price",
+    "No aptX or LDAC codec support",
+    "Plastic construction feels less premium than the price suggests",
+    "Companion app is basic compared to competitors"
+  ],
+  "bestFor": [
+    "Frequent flyers and commuters prioritizing ANC",
+    "Office workers in open-plan environments",
+    "Those who wear headphones for 6+ hours daily",
+    "Listeners who prefer a relaxed, non-fatiguing sound"
+  ],
+  "keyFeatures": [
+    { "name": "ANC", "value": "Bose QuietComfort active noise cancellation" },
+    { "name": "Battery", "value": "24 hours (ANC on)" },
+    { "name": "Bluetooth", "value": "5.1 with multipoint" },
+    { "name": "Foldable", "value": "Yes — includes carry case" },
+    { "name": "Microphones", "value": "4-mic array for calls" },
+    { "name": "Weight", "value": "250g" }
+  ],
+  "verdict": "If comfort and noise cancellation are your top two priorities, the Bose QuietComfort is the headphone to beat. Our research confirms it remains a top choice for travelers and office workers despite fierce competition from Sony.",
+  "tag": "Best Overall",
+  "featured": true
+}

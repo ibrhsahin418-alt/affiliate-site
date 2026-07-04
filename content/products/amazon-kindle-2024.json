@@ -1,0 +1,43 @@
+{
+  "id": "amazon-kindle-2024",
+  "slug": "amazon-kindle-2024",
+  "asin": "B0F7Z4QZTT",
+  "title": "Amazon Kindle — Newest Generation AI-Powered E-Reader",
+  "shortTitle": "Amazon Kindle (Latest Gen)",
+  "category": "electronics",
+  "brand": "Amazon",
+  "image": "/images/products/amazon-kindle.jpg",
+  "rating": 4.7,
+  "reviewCount": 9870,
+  "summary": "The latest Amazon Kindle brings AI-powered features to the entry-level e-reader category. With access to over 12 million titles and a refined reading experience, our research suggests this generation is the best entry point into Kindle ownership for casual to avid readers.",
+  "pros": [
+    "Access to over 12 million Kindle books",
+    "Glare-free display — comfortable in direct sunlight",
+    "Weeks of battery life on a single charge",
+    "Lightweight and easy to hold for extended reading",
+    "New AI-powered features for vocabulary and summaries"
+  ],
+  "cons": [
+    "Requires Kindle Unlimited or individual book purchases",
+    "Not waterproof (unlike Kindle Paperwhite)",
+    "No physical page turn buttons",
+    "Limited to Amazon's ecosystem"
+  ],
+  "bestFor": [
+    "Casual readers switching from physical books",
+    "Frequent travelers who carry multiple books",
+    "Students who read textbooks digitally",
+    "Anyone wanting a dedicated reading device"
+  ],
+  "keyFeatures": [
+    { "name": "Display", "value": "6\" glare-free E Ink" },
+    { "name": "Resolution", "value": "300 ppi" },
+    { "name": "Battery", "value": "Weeks on a single charge" },
+    { "name": "Storage", "value": "16 GB" },
+    { "name": "Connectivity", "value": "WiFi" },
+    { "name": "AI Features", "value": "Yes — vocabulary builder, summaries" }
+  ],
+  "verdict": "The newest Kindle is the easiest recommendation for anyone looking to start reading digitally. Our research confirms it delivers exceptional value as an entry-level e-reader with a long-standing, trusted platform.",
+  "tag": "Best Budget",
+  "featured": false
+}

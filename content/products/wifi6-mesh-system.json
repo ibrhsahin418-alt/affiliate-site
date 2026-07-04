@@ -1,0 +1,43 @@
+{
+  "id": "wifi6-mesh-system",
+  "slug": "wifi6-mesh-system",
+  "asin": "B09PRB1MZM",
+  "title": "WiFi 6 Mesh System AX3000 — Whole Home Coverage",
+  "shortTitle": "WiFi 6 Mesh System AX3000",
+  "category": "electronics",
+  "brand": "Tenda",
+  "image": "/images/products/wifi6-mesh-system.jpg",
+  "rating": 4.4,
+  "reviewCount": 8920,
+  "summary": "This AX3000 WiFi 6 mesh system delivers whole-home wireless coverage with next-generation WiFi 6 speeds. Our research suggests it's one of the most affordable paths to a true mesh network with WiFi 6 capability, making it ideal for homes struggling with dead zones.",
+  "pros": [
+    "WiFi 6 (802.11ax) for faster speeds and better device handling",
+    "True mesh — nodes communicate seamlessly for whole-home coverage",
+    "Easy setup via smartphone app",
+    "Handles 100+ connected devices simultaneously",
+    "MU-MIMO and OFDMA for efficient multi-device performance"
+  ],
+  "cons": [
+    "Less known brand compared to TP-Link or Eero",
+    "App required for advanced settings",
+    "Tri-band not available at this price point",
+    "Limited advanced routing features vs. router-only solutions"
+  ],
+  "bestFor": [
+    "Homes with dead zones and inconsistent coverage",
+    "Households with many smart devices",
+    "Those upgrading from older WiFi 5 routers",
+    "Budget-conscious buyers who want mesh networking"
+  ],
+  "keyFeatures": [
+    { "name": "Standard", "value": "WiFi 6 (802.11ax)" },
+    { "name": "Speed", "value": "AX3000 (574 + 2402 Mbps)" },
+    { "name": "Coverage", "value": "Up to 5,000+ sq ft (3-pack)" },
+    { "name": "Devices", "value": "100+ simultaneously" },
+    { "name": "Setup", "value": "App-based" },
+    { "name": "Bands", "value": "Dual-band" }
+  ],
+  "verdict": "For households that need broad, reliable WiFi 6 coverage without paying premium prices for Eero or Orbi, this mesh system offers excellent value. Our research confirms it's a capable, easy-to-set-up solution for most home networking needs.",
+  "tag": "Best Budget",
+  "featured": false
+}

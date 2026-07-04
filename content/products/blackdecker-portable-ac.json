@@ -1,0 +1,43 @@
+{
+  "id": "blackdecker-portable-ac",
+  "slug": "blackdecker-portable-ac",
+  "asin": "B01DLPUWJ4",
+  "title": "BLACK+DECKER Portable Air Conditioner with Remote Control",
+  "shortTitle": "BLACK+DECKER Portable AC",
+  "category": "home-kitchen",
+  "brand": "BLACK+DECKER",
+  "image": "/images/products/blackdecker-portable-ac.jpg",
+  "rating": 4.3,
+  "reviewCount": 12870,
+  "summary": "The BLACK+DECKER Portable Air Conditioner is a no-install cooling solution for rooms up to 250–350 sq ft. With LED display, remote control, and multiple fan/cooling modes, our research suggests it's one of the most practical portable AC units for apartments and rental spaces where window units aren't permitted.",
+  "pros": [
+    "No permanent installation required",
+    "LED display with remote control included",
+    "Fan-only and dehumidifier modes in addition to cooling",
+    "24-hour programmable timer",
+    "Easy to move between rooms on rolling casters"
+  ],
+  "cons": [
+    "Less efficient than window AC units (single-hose design)",
+    "Exhaust hose must be vented through a window",
+    "Can be noisy at higher settings",
+    "Best suited for smaller rooms only"
+  ],
+  "bestFor": [
+    "Apartments where window AC units aren't allowed",
+    "Single rooms needing supplemental cooling",
+    "Renters who want a portable cooling solution",
+    "Spaces up to 350 sq ft"
+  ],
+  "keyFeatures": [
+    { "name": "Cooling Capacity", "value": "8,000 BTU" },
+    { "name": "Room Coverage", "value": "Up to 350 sq ft" },
+    { "name": "Modes", "value": "Cool, Fan, Dehumidify" },
+    { "name": "Control", "value": "LED panel + remote" },
+    { "name": "Timer", "value": "24-hour programmable" },
+    { "name": "Installation", "value": "No — window vent kit included" }
+  ],
+  "verdict": "For renters and apartment dwellers who need cooling without a permanent installation, the BLACK+DECKER portable AC is a reliable, well-designed solution. Our research confirms it delivers consistent cooling for rooms under 350 sq ft.",
+  "tag": "Best Budget",
+  "featured": false
+}
