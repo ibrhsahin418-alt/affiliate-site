@@ -13,7 +13,7 @@ export const siteConfig = {
   // ✅ UPDATE THIS: Replace YOURTAG-20 with your real Amazon Associates tracking ID
   // You can find your tracking ID in your Amazon Associates dashboard
   // Example: "johnsmith-20"
-  amazonAffiliateTag: "YOURTAG-20",
+  amazonAffiliateTag: "ibrhshn-20",
   // Social / contact
   email: "contact@yourdomain.com",
   // Amazon disclosure (required by Amazon Associates Program)
