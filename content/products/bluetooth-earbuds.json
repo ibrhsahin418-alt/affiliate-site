@@ -1,0 +1,43 @@
+{
+  "id": "bluetooth-earbuds",
+  "slug": "bluetooth-earbuds",
+  "asin": "B07Q4TVFFD",
+  "title": "Sony WF-1000XM5 True Wireless Noise Canceling Earbuds",
+  "shortTitle": "Sony WF-1000XM5 Earbuds",
+  "category": "electronics",
+  "brand": "Sony",
+  "image": "/images/products/bluetooth-earbuds.jpg",
+  "rating": 4.7,
+  "reviewCount": 18432,
+  "summary": "The Sony WF-1000XM5 set the benchmark for true wireless earbuds in the premium segment. Our research suggests these offer the best combination of active noise cancellation, sound quality, and comfort currently available in a true wireless form factor.",
+  "pros": [
+    "Industry-leading active noise cancellation",
+    "Exceptional audio quality with LDAC codec support",
+    "Compact and lightweight — among the smallest in its class",
+    "Multipoint connection — pairs with 2 devices simultaneously",
+    "Excellent call quality with AI-enhanced noise reduction"
+  ],
+  "cons": [
+    "Premium price point",
+    "Battery life (8 hours ANC on) is average for the class",
+    "Ear tips can cause fatigue for some users over extended wear",
+    "Case is larger than some competitors"
+  ],
+  "bestFor": [
+    "Frequent travelers and commuters who need strong ANC",
+    "Audiophiles who want high-resolution wireless audio",
+    "Remote workers on lots of calls",
+    "Those willing to invest in the best wireless earbuds available"
+  ],
+  "keyFeatures": [
+    { "name": "ANC", "value": "Dual Noise Sensor Technology" },
+    { "name": "Driver", "value": "8.4mm integrated processor" },
+    { "name": "Battery Life", "value": "8 hrs (bud) + 16 hrs (case)" },
+    { "name": "Codec Support", "value": "LDAC, AAC, SBC" },
+    { "name": "Bluetooth", "value": "5.3" },
+    { "name": "Water Resistance", "value": "IPX4" }
+  ],
+  "verdict": "The Sony WF-1000XM5 is the benchmark by which all other premium earbuds are measured. Our research confirms that for anyone who regularly works or travels in noisy environments, the ANC performance alone justifies the investment.",
+  "tag": "Best Premium",
+  "featured": true
+}

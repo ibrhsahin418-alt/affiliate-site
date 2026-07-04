@@ -1,0 +1,43 @@
+{
+  "id": "air-purifier",
+  "slug": "air-purifier",
+  "asin": "B07CNGRXZJ",
+  "title": "Coway AP-1512HH Mighty Air Purifier with True HEPA Filter",
+  "shortTitle": "Coway Mighty Air Purifier",
+  "category": "home-kitchen",
+  "brand": "Coway",
+  "image": "/images/products/air-purifier.jpg",
+  "rating": 4.7,
+  "reviewCount": 82941,
+  "summary": "The Coway AP-1512HH Mighty is widely regarded as one of the best value air purifiers on the market. Our research suggests it offers exceptional filtration performance for medium-sized rooms, with a 4-stage filtration system that captures 99.97% of particles as small as 0.3 microns.",
+  "pros": [
+    "True HEPA filter captures 99.97% of airborne particles",
+    "Auto mode adjusts fan speed based on air quality sensor",
+    "Filter indicator light tells you exactly when to replace",
+    "Energy Star certified — very low power consumption",
+    "Compact design fits easily in most rooms"
+  ],
+  "cons": [
+    "Covers up to 360 sq ft — not suitable for very large rooms",
+    "Replacement filters add to long-term cost",
+    "Fan can be noisy on the highest setting",
+    "No smart home / app connectivity"
+  ],
+  "bestFor": [
+    "Allergy and asthma sufferers",
+    "Pet owners dealing with dander and odors",
+    "Bedrooms and medium-sized living spaces",
+    "Those who want set-it-and-forget-it auto mode"
+  ],
+  "keyFeatures": [
+    { "name": "Filter Type", "value": "4-Stage (Pre-filter, Carbon, True HEPA, Ionizer)" },
+    { "name": "Coverage", "value": "Up to 360 sq ft" },
+    { "name": "CADR", "value": "246 cfm (Dust), 240 cfm (Pollen), 233 cfm (Smoke)" },
+    { "name": "Noise Level", "value": "24.4 dB (low) – 53.8 dB (high)" },
+    { "name": "Certification", "value": "Energy Star, CARB, AHAM" },
+    { "name": "Filter Life", "value": "~12 months (pre-filter washable)" }
+  ],
+  "verdict": "The Coway Mighty is our top recommendation for anyone looking for a reliable, proven air purifier under $100. It has stood the test of time and remains a bestseller for good reason. Our research confirms it punches well above its price class.",
+  "tag": "Best Budget",
+  "featured": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "kitchen-knife-set",
+  "slug": "kitchen-knife-set",
+  "asin": "B07THBHB6Q",
+  "title": "Victorinox Fibrox Pro 8-Piece Knife Block Set",
+  "shortTitle": "Victorinox Fibrox Pro Knife Set",
+  "category": "home-kitchen",
+  "brand": "Victorinox",
+  "image": "/images/products/kitchen-knife-set.jpg",
+  "rating": 4.6,
+  "reviewCount": 4823,
+  "summary": "The Victorinox Fibrox Pro 8-Piece Knife Block Set delivers professional-grade performance at an approachable price. Our research suggests this is one of the most well-rounded knife sets available for home cooks who want durability and versatility without the premium price tag of German or Japanese alternatives.",
+  "pros": [
+    "Swiss-made blades hold an edge remarkably well",
+    "NSF-certified ergonomic handles — non-slip even when wet",
+    "Includes 8 essential knives for virtually any kitchen task",
+    "Dishwasher safe (though hand-washing recommended)",
+    "Excellent value for a professional-quality set"
+  ],
+  "cons": [
+    "Block design is somewhat bulky for smaller countertops",
+    "Not forged — stamped blades won't satisfy purists",
+    "Handle material shows wear after years of heavy use",
+    "Limited aesthetics compared to premium German brands"
+  ],
+  "bestFor": [
+    "Home cooks upgrading from budget knives",
+    "People who want professional quality without a professional price",
+    "Kitchens that prioritize practicality over aesthetics",
+    "Beginners who want a complete set with no gaps"
+  ],
+  "keyFeatures": [
+    { "name": "Blade Material", "value": "High-carbon stainless steel" },
+    { "name": "Handle", "value": "Fibrox Pro thermoplastic elastomer" },
+    { "name": "Pieces", "value": "8 (including block)" },
+    { "name": "Certification", "value": "NSF Certified" },
+    { "name": "Country of Origin", "value": "Switzerland" },
+    { "name": "Dishwasher Safe", "value": "Yes (hand-wash recommended)" }
+  ],
+  "verdict": "This guide compares dozens of knife sets and the Victorinox Fibrox Pro consistently earns its place as the top recommendation for most home cooks. It hits the sweet spot between professional quality and everyday practicality. If you're serious about cooking but don't want to spend $400+ on a premium German set, this is the set to buy.",
+  "tag": "Best Overall",
+  "featured": true
+}

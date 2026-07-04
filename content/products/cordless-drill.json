@@ -1,0 +1,43 @@
+{
+  "id": "cordless-drill",
+  "slug": "cordless-drill",
+  "asin": "B008LR9NDG",
+  "title": "DEWALT 20V MAX Cordless Drill / Driver Kit (DCD771C2)",
+  "shortTitle": "DEWALT DCD771C2 Cordless Drill",
+  "category": "tools-home-improvement",
+  "brand": "DEWALT",
+  "image": "/images/products/cordless-drill.jpg",
+  "rating": 4.8,
+  "reviewCount": 64321,
+  "summary": "The DEWALT DCD771C2 is the gold standard entry-level cordless drill for homeowners and DIY enthusiasts. Our research suggests it consistently outperforms similarly priced competitors in torque delivery, battery life, and overall build quality.",
+  "pros": [
+    "Powerful 300 UWO motor — handles almost any drilling or driving task",
+    "Comes with 2 batteries for uninterrupted workflow",
+    "Lightweight at just 3.6 lbs — reduces fatigue",
+    "2-speed transmission for control across applications",
+    "Compatible with entire 20V MAX battery ecosystem"
+  ],
+  "cons": [
+    "Doesn't include a carrying bag (just a kitbox)",
+    "No brushless motor — slightly less efficient than premium models",
+    "Chuck quality is adequate but not exceptional",
+    "Battery charger is basic — no fast-charge capability"
+  ],
+  "bestFor": [
+    "First-time homeowners building their tool collection",
+    "Weekend DIY projects and basic home repairs",
+    "Those who want to invest in DEWALT's 20V MAX battery platform",
+    "Anyone who needs reliable performance at a mid-range price"
+  ],
+  "keyFeatures": [
+    { "name": "Voltage", "value": "20V MAX" },
+    { "name": "Motor", "value": "300 UWO (Unit Watts Out)" },
+    { "name": "Chuck", "value": "1/2 inch" },
+    { "name": "Speed Settings", "value": "2-speed (0-450 / 0-1,500 RPM)" },
+    { "name": "Weight", "value": "3.6 lbs (with battery)" },
+    { "name": "Batteries Included", "value": "2 x 20V MAX 1.3Ah" }
+  ],
+  "verdict": "The DEWALT DCD771C2 is the drill we recommend to virtually everyone who asks what to buy first. It's powerful enough for most home tasks, backed by DEWALT's legendary reliability, and priced fairly. Our research confirms it's an exceptional value.",
+  "tag": "Best Overall",
+  "featured": true
+}

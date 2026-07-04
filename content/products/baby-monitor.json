@@ -1,0 +1,43 @@
+{
+  "id": "baby-monitor",
+  "slug": "baby-monitor",
+  "asin": "B08XMPQSJ2",
+  "title": "Infant Optics DXR-8 PRO Video Baby Monitor",
+  "shortTitle": "Infant Optics DXR-8 PRO",
+  "category": "baby-kids",
+  "brand": "Infant Optics",
+  "image": "/images/products/baby-monitor.jpg",
+  "rating": 4.5,
+  "reviewCount": 29847,
+  "summary": "The Infant Optics DXR-8 PRO is a dedicated video baby monitor that operates on its own encrypted 2.4GHz FHSS frequency — no Wi-Fi, no hacking risk, no cloud dependency. Our research suggests it's the most trusted non-WiFi baby monitor for parents who prioritize security and reliability.",
+  "pros": [
+    "No Wi-Fi required — private, encrypted 2.4GHz signal",
+    "Crystal-clear 720p video with 5-inch color display",
+    "Interchangeable optical zoom and wide-angle lens system",
+    "Two-way audio with noise cancellation",
+    "Long battery life — up to 10 hours on power-save mode"
+  ],
+  "cons": [
+    "No smartphone app access (by design for privacy)",
+    "More expensive than basic audio-only monitors",
+    "Range limited to ~1,000 ft (clear line of sight)",
+    "Single camera included — additional cameras sold separately"
+  ],
+  "bestFor": [
+    "Parents who want no cloud dependency or hacking risk",
+    "Home environments with unreliable Wi-Fi",
+    "Families prioritizing privacy and security",
+    "Those who want dedicated monitor hardware, not an app"
+  ],
+  "keyFeatures": [
+    { "name": "Video Resolution", "value": "720p HD" },
+    { "name": "Display", "value": "5-inch color LCD" },
+    { "name": "Connectivity", "value": "2.4GHz FHSS (no Wi-Fi)" },
+    { "name": "Range", "value": "Up to 1,000 ft" },
+    { "name": "Night Vision", "value": "Yes, infrared" },
+    { "name": "Battery Life", "value": "Up to 10 hours (power-save mode)" }
+  ],
+  "verdict": "If privacy and reliability are your top priorities, the DXR-8 PRO is the clear choice. It's more expensive than budget options but offers the peace of mind that comes from a closed, secure system. Highly recommended by our research for safety-conscious parents.",
+  "tag": "Best Overall",
+  "featured": false
+}
